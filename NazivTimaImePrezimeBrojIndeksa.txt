@@ -1,2 +1,3 @@
 Naziv tima: Moj Tim
-Studenti: Emir Cogo,
+Studenti: Emir Cogo, Adnan Delihodzic
+Studenti2: Adnan Delihodzic,
